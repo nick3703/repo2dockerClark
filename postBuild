@@ -7,4 +7,4 @@ jupyter lab build
 ##
 
 #Let's say I want to clone a repository of my work so I can edit my files and push my changes back to GitHub.
-git clone https://github.com/nick3703/https://github.com/nick3703/MA376
+git clone https://github.com/nick3703/AOG-Talk.git
